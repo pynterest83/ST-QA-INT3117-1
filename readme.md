@@ -9,5 +9,5 @@ pip install -r requirements.txt
 
 Running a test suite example:
 ```bash
-pytest test_black_box.py
+python test_C2.py
 ```
